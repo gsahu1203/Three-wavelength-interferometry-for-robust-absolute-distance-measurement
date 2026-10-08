@@ -1,0 +1,2 @@
+lambda1_nm,lambda2_nm,lambda3_nm,coarse_objective_margin_rad,refined_margin_rad,closest_alias_delta_um,seed,success,message
+1451.040803711973,1570.9602656324143,1582.7670169634516,0.4387927032411845,0.43331891260212446,8.686000000000007,20260919,True,Optimization terminated successfully.
